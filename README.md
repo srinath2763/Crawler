@@ -5,7 +5,7 @@ Contributed By:
 3. Srinath Shah
 
 
-![alt text](https://raw.githubusercontent.com/srinath2763/crawler/master/images/statistics.png)
+![alt text](https://github.com/srinath2763/Crawler/blob/master/images/Statistics.jpg)
 
 
 
